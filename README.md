@@ -43,6 +43,7 @@ Marketers and agencies juggle Google Ads, Meta Ads, and GA4 daily — each with 
 | AI Assistant | Status | Setup Guide |
 |:------------|:------:|:-----------:|
 | ChatGPT | **Supported** | [Setup Guide](docs/SETUP_CHATGPT.md) |
+| Grok Bot | **Built-in connector** | [Setup Guide](https://help.get-ryze.ai/grok/connect) |
 | Claude Desktop | **Supported** | [Setup Guide](docs/SETUP_CLAUDE.md) |
 | Claude Code | **Supported** | [Setup Guide](docs/SETUP_CLAUDE.md#claude-code) |
 | Cursor | **Supported** | [Setup Guide](docs/SETUP_CURSOR.md) |
@@ -132,6 +133,16 @@ See the full [Claude Setup Guide](docs/SETUP_CLAUDE.md) for detailed instruction
 4. Click **Save**
 
 See the full [ChatGPT Setup Guide](docs/SETUP_CHATGPT.md).
+
+### Grok Bot
+
+Ryze AI is a built-in connector in Grok Bot, no endpoint URL needed:
+
+1. Open **Connect Apps** in Grok Bot
+2. Search `Ryze AI` and click **Add**
+3. Sign in to Ryze, pick your workspaces and click **Allow connection**
+
+See the [Grok Bot guide](https://www.get-ryze.ai/grok) and the [step-by-step setup with screenshots](https://help.get-ryze.ai/grok/connect).
 
 ### Cursor / Windsurf
 
